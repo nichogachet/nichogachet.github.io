@@ -20,9 +20,9 @@ Policy work
 ------
 **Gasto en desnutrición. Reporte Nacional de Nutrición 2022 .** [Link to the full report](https://crisfe.org/docs/CRISFE-final-WEB.pdf) (With Daniel Baquero) in spanish 
 
-**Summary of chapter:** We classify budget spending in nutritional programs into specific and sensitive categories using text analysis. We 	demonstrate potential issues related to geographic resource allocation and stunting prevalence in Ecuador. 
+:**Summary of chapter:** We classify budget spending in nutritional programs into specific and sensitive categories using text analysis. We 	demonstrate potential issues related to geographic resource allocation and stunting prevalence in Ecuador. 
 
 **Apuntando Alto: Retos en la Lucha Contra la Desnutrición Crónica (World Bank).2017.** [link](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/302901544122856933/apuntando-alto-retos-en-la-lucha-contra-la-desnutrici%c3%b3n-cr%c3%b3nica) (With Nelson Gutiérrez, Claudia Rokx, Hugo Brousset and Tomás Ciuffardi). in spanish
 
-**Summary:** This report analyzes the stylized facts of stunting in Ecuador. It utilizes survey information from the years 2004, 2006, 2012, and 2014 
+:**Summary:** This report analyzes the stylized facts of stunting in Ecuador. It utilizes survey information from the years 2004, 2006, 2012, and 2014 
 
