@@ -1,22 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/  
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /Teaching/  
+
   - title: "CV"
-    url: /cv/
+    url: https://www.dropbox.com/s/d6ee765t2e4gmw7/CV_Gachet_comp.pdf?dl=0
     
-  - title: "Guide"
-    url: /markdown/
+
