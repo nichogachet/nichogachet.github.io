@@ -16,6 +16,6 @@ I've studied Economics at The University of Manchester (MSc) and [Universidad Sa
 
 My email: nicholas.gachet[at] gmail.com  /  nicholas.gachet[at]manchester.ac.uk
 
-Here you can find my [cv](https://www.dropbox.com/s/d6ee765t2e4gmw7/CV_Gachet_comp.pdf?dl=0)
+Here you can find my [cv](/files/CV_Gachet_comp.pdf)
 
 
