@@ -6,12 +6,10 @@ title: "Research"
 
 Working papers
 ------
-**Populis and distributive politics** <span style="color:blue">[New version coming soon !!)]</span>.
+**Populism and distributive politics** <span style="color:blue">[New version coming soon !!)]</span>.
 
-<details>
-<summary><i>: **Abstract:**</i></summary>
-<b>What electoral strategies do populist regimes employ to implement institutional reforms? I use as a setting the case of Ecuador in the initial phase of the Correa regime. Correa emerged as an unknown figure in politics and achieved victory with a new political party, no congressmenn and no local candidates. Consequently, the vote share of this election provides a reasonably good proxy for initial affinity towards a populist politician. During its peak, from 2006 to 2010, the regime implemented several institutional reforms, including a new Constitution, which were approved via direct referendums. By employing transcripts from Correa's weekly speeches delivered in-person across the country, I show that institutional changes and populist-type discourse are strategically allocated in areas where a populist has its initial core supporters. This result is relevant since it shows that populists are not necessarily overconfident due to their public appeal; instead, they may prefer to be conservative and avoid taking electorally risky strategies.<b>
-</details>
+: **Abstract:**
+What electoral strategies do populist regimes employ to implement institutional reforms? I use as a setting the case of Ecuador in the initial phase of the Correa regime. Correa emerged as an unknown figure in politics and achieved victory with a new political party, no congressmenn and no local candidates. Consequently, the vote share of this election provides a reasonably good proxy for initial affinity towards a populist politician. During its peak, from 2006 to 2010, the regime implemented several institutional reforms, including a new Constitution, which were approved via direct referendums. By employing transcripts from Correa's weekly speeches delivered in-person across the country, I show that institutional changes and populist-type discourse are strategically allocated in areas where a populist has its initial core supporters. This result is relevant since it shows that populists are not necessarily overconfident due to their public appeal; instead, they may prefer to be conservative and avoid taking electorally risky strategies.
 
 Work in progress
 ------
